@@ -1,0 +1,37 @@
+body {
+	background: #0a2463;
+}
+
+/* Center the avatar image inside this container */
+.imgcontainer {
+    text-align: center;
+    margin: 100px 0 100px 0;
+	background: 0a2463;
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	color: #5ed17c;
+}
+
+figcaption {
+	font-family: "Sans-serif";
+	font-size: 30px;
+	color: #5ed17c;
+}
+
+/* Avatar image */
+img.avatar {
+    width: 30%;
+    border-radius: 70%;
+}
+
+pictures div {
+	padding: 0;}
+.pictures figure {display: inline-block;
+    width:500px;
+}
+.pictures a img{
+	height:auto; 
+	}
