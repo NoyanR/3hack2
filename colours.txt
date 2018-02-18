@@ -1,0 +1,11 @@
+Home Page:
+Background: #0A2463 92%
+Text: #D0F4EA
+Button: #586994 59% opacity
+
+
+Login Page:
+Background: #0A2463 92%
+Text: #54577C
+Bubble: #586994 59%
+Fields: #FFFFFF 85%
